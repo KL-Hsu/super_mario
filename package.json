@@ -1,0 +1,23 @@
+{
+  "name": "super_mario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klhsu2021/super_mario.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klhsu2021/super_mario1/issues"
+  },
+  "homepage": "https://github.com/klhsu2021/super_mario1#readme",
+  "dependencies": {
+    "serve": "^12.0.0"
+  }
+}
