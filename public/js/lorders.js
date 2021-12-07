@@ -3,7 +3,7 @@ export function loadImage(url) {
         const image = new Image();
         image.addEventListener('load', ()=> {
             resolve(image);
-        });
+        }); 
         image.src = url;
     });
 }
